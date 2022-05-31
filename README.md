@@ -1,0 +1,1 @@
+This file includes some problem solving exercises in C language taken in "CS50's Introduction to Computer Science" course. Kindly note that import CS50 is a library used by Harvard university to avoid writting Try Except in Python.
